@@ -1,3 +1,6 @@
+#This script will search Microsoft's monthly updates for any KBs for the following:
+#Windows 10 22H2 (x64), Server 2012, Server 2016, Server 2019, and Office 2016 (both x32 and x64)
+
 import requests
 import json
 from datetime import datetime
@@ -7,7 +10,6 @@ from datetime import datetime
 currentdate = datetime.now()
 date = currentdate.strftime("%Y-%b")
 url = f"https://api.msrc.microsoft.com/cvrf/v3.0/cvrf/{date}"
-
 headers = {"Accept" : "application/json"}
 r = requests.get(url, headers=headers)
 response_dict = r.json()
@@ -29,6 +31,7 @@ set_Office16x32 = set()
 set_Office16x64 = set()
 set_s2012 = set()
 
+#drilling down to product IDs, and pulling the URLs associate with the KB.
 for vuln in vuln_dict:
     remediations = vuln['Remediations'] 
     for remediation in remediations:
@@ -58,9 +61,9 @@ list_office64 = list(set_Office16x64)
 list_2012 = list(set_s2012)
 
 #printing the lists
-print (f"Server 2016 remediations: {list_2016}\n")
-print (f"Server 2019 remediations: {list_2019}\n")
-print (f"Windows 10 remediations: {list_w10}\n")
-print (f"Office 2016 x32: {list_office32}\n")
-print (f"Office 2016 x64: {list_office64}\n")
-print (f"Server 2012 remediations: {list_2012}\n")
+print (f"Server 2016 remediations KBs: {list_2016}\n")
+print (f"Server 2019 remediations KBs: {list_2019}\n")
+print (f"Windows 10 remediations KBs: {list_w10}\n")
+print (f"Office 2016 x32 KBs: {list_office32}\n")
+print (f"Office 2016 x64 KBs: {list_office64}\n")
+print (f"Server 2012 remediations KBs: {list_2012}\n")
