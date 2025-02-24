@@ -1,9 +1,13 @@
 import requests
 import json
+from datetime import datetime
 
-#requesting date and pulling from api
-date = '2025-Feb'
+
+#formatting date and pulling from api
+currentdate = datetime.now()
+date = currentdate.strftime("%Y-%b")
 url = f"https://api.msrc.microsoft.com/cvrf/v3.0/cvrf/{date}"
+
 headers = {"Accept" : "application/json"}
 r = requests.get(url, headers=headers)
 response_dict = r.json()
