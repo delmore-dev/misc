@@ -4,400 +4,400 @@
     "publix_cobblestone_aisle":"Fresh Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"protein powder",
     "item_id":"2",
     "publix_cobblestone_aisle":"Aisle 15",
     "publix_plaza_aisle":"Pharmacy",
     "winndixie_aisle":"Aisle 2",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G6",
+    "walmart_atlantic_aisle":"G5" 
  },
  {  "item_name":"flour",
     "item_id":"3",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A15",
+    "walmart_atlantic_aisle":"A13" 
  },
  {  "item_name":"milk",
     "item_id":"4",
     "publix_cobblestone_aisle":"Rear Left",
     "publix_plaza_aisle":"Rear Center",
     "winndixie_aisle":"Aisle 19",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A32",
+    "walmart_atlantic_aisle":"A36" 
  },
  {  "item_name":"pizza crust",
     "item_id":"5",
     "publix_cobblestone_aisle":"Bakery",
     "publix_plaza_aisle":"Deli",
     "winndixie_aisle":"Aisle 19",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A13",
+    "walmart_atlantic_aisle":"A9" 
  },
  {  "item_name":"monkfruit sweetener",
     "item_id":"6",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A15",
+    "walmart_atlantic_aisle":"A13" 
  },
  {  "item_name":"egg whites",
     "item_id":"7",
     "publix_cobblestone_aisle":"Aisle 15",
     "publix_plaza_aisle":"Eggs",
     "winndixie_aisle":"Aisle 19",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A32",
+    "walmart_atlantic_aisle":"A28" 
  },
  {  "item_name":"carrots",
     "item_id":"8",
     "publix_cobblestone_aisle":"Produce",
     "publix_plaza_aisle":"Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"water",
     "item_id":"9",
     "publix_cobblestone_aisle":"Aisle 15",
     "publix_plaza_aisle":"Aisle 10",
     "winndixie_aisle":"Aisle 2",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A20",
+    "walmart_atlantic_aisle":"A27" 
  },
  {  "item_name":"spam",
     "item_id":"10",
     "publix_cobblestone_aisle":"Aisle 3",
     "publix_plaza_aisle":"Aisle 3",
     "winndixie_aisle":"Aisle 7",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A12",
+    "walmart_atlantic_aisle":"A10" 
  },
  {  "item_name":"mascarpone cheese",
     "item_id":"11",
     "publix_cobblestone_aisle":"Deli",
     "publix_plaza_aisle":"Deli",
     "winndixie_aisle":"item not found",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A37",
+    "walmart_atlantic_aisle":"A40" 
  },
  {  "item_name":"toilet cleaner",
     "item_id":"12",
     "publix_cobblestone_aisle":"Aisle 13",
     "publix_plaza_aisle":"Aisle 8 ",
     "winndixie_aisle":"Aisle 13",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"J11",
+    "walmart_atlantic_aisle":"J3" 
  },
  {  "item_name":"cough syrup",
     "item_id":"13",
     "publix_cobblestone_aisle":"Pharmacy",
     "publix_plaza_aisle":"Pharmacy",
     "winndixie_aisle":"Aisle 16",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G9",
+    "walmart_atlantic_aisle":"G9" 
  },
  {  "item_name":"lady fingers",
     "item_id":"14",
     "publix_cobblestone_aisle":"Dry Grocery",
     "publix_plaza_aisle":"Dry Grocery",
     "winndixie_aisle":"Aisle 8",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"item not found in store",
+    "walmart_atlantic_aisle":"A23" 
  },
  {  "item_name":"strawberries",
     "item_id":"15",
     "publix_cobblestone_aisle":"Fresh Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"sazon seasoning",
     "item_id":"16",
     "publix_cobblestone_aisle":"Aisle 3",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 8",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A10",
+    "walmart_atlantic_aisle":"A11" 
  },
  {  "item_name":"smoked paprika",
     "item_id":"17",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A14",
+    "walmart_atlantic_aisle":"A14" 
  },
  {  "item_name":"cilantro",
     "item_id":"18",
     "publix_cobblestone_aisle":"Fresh Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"culantro",
     "item_id":"19",
     "publix_cobblestone_aisle":"Fresh Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"Aisle 8",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"cumin",
     "item_id":"20",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A14",
+    "walmart_atlantic_aisle":"A14" 
  },
  {  "item_name":"curry paste",
     "item_id":"21",
     "publix_cobblestone_aisle":"Aisle 3",
     "publix_plaza_aisle":"Aisle 3",
     "winndixie_aisle":"Aisle 8",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A11",
+    "walmart_atlantic_aisle":"A11" 
  },
  {  "item_name":"garlic paste",
     "item_id":"22",
     "publix_cobblestone_aisle":"Produce",
     "publix_plaza_aisle":"Produce",
     "winndixie_aisle":"Aisle 8",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"bell peppers",
     "item_id":"23",
     "publix_cobblestone_aisle":"Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"chickpeas",
     "item_id":"24",
     "publix_cobblestone_aisle":"Aisle 2",
     "publix_plaza_aisle":"Aisle 5",
     "winndixie_aisle":"Aisle 7",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A11",
+    "walmart_atlantic_aisle":"A8" 
  },
  {  "item_name":"pam spray",
     "item_id":"25",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A15",
+    "walmart_atlantic_aisle":"A13" 
  },
  {  "item_name":"canned beans",
     "item_id":"26",
     "publix_cobblestone_aisle":"Aisle 2",
     "publix_plaza_aisle":"Aisle 5",
     "winndixie_aisle":"Aisle 7",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A11",
+    "walmart_atlantic_aisle":"A8" 
  },
  {  "item_name":"rice",
     "item_id":"27",
     "publix_cobblestone_aisle":"Aisle 2",
     "publix_plaza_aisle":"Aisle 5",
     "winndixie_aisle":"Aisle 7",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A10",
+    "walmart_atlantic_aisle":"A10" 
  },
  {  "item_name":"greek yogurt",
     "item_id":"28",
     "publix_cobblestone_aisle":"Yogurt",
     "publix_plaza_aisle":"Rear Center",
     "winndixie_aisle":"Aisle 19",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A32",
+    "walmart_atlantic_aisle":"A28" 
  },
  {  "item_name":"sugarfree juice",
     "item_id":"29",
     "publix_cobblestone_aisle":"Produce",
     "publix_plaza_aisle":"Produce",
     "winndixie_aisle":"Produce",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A32",
+    "walmart_atlantic_aisle":"A36" 
  },
  {  "item_name":"blueberries",
     "item_id":"30",
     "publix_cobblestone_aisle":"Fresh Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"enchilada sauce",
     "item_id":"31",
     "publix_cobblestone_aisle":"Aisle 3",
     "publix_plaza_aisle":"Aisle 3",
     "winndixie_aisle":"Aisle 8",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A10",
+    "walmart_atlantic_aisle":"A11" 
  },
  {  "item_name":"tortillas",
     "item_id":"32",
     "publix_cobblestone_aisle":"Aisle 3",
     "publix_plaza_aisle":"Aisle 3",
     "winndixie_aisle":"Aisle 8",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A10",
+    "walmart_atlantic_aisle":"A11" 
  },
  {  "item_name":"hair brush",
     "item_id":"33",
     "publix_cobblestone_aisle":"Aisle 14",
     "publix_plaza_aisle":"Pharmacy",
     "winndixie_aisle":"Aisle 15",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G29",
+    "walmart_atlantic_aisle":"H12" 
  },
  {  "item_name":"paper cups",
     "item_id":"34",
     "publix_cobblestone_aisle":"Aisle 12",
     "publix_plaza_aisle":"Aisle 9",
     "winndixie_aisle":"Aisle 18",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A27",
+    "walmart_atlantic_aisle":"A22" 
  },
  {  "item_name":"makeup wipes",
     "item_id":"35",
     "publix_cobblestone_aisle":"Pharmacy",
     "publix_plaza_aisle":"Pharmacy",
     "winndixie_aisle":"Aisle 14",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G28",
+    "walmart_atlantic_aisle":"H6" 
  },
  {  "item_name":"panko crumbs",
     "item_id":"36",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A15",
+    "walmart_atlantic_aisle":"A13" 
  },
  {  "item_name":"sliced ham",
     "item_id":"37",
     "publix_cobblestone_aisle":"Rear Center",
     "publix_plaza_aisle":"Aisle 1",
     "winndixie_aisle":"Meat",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A33",
+    "walmart_atlantic_aisle":"A37" 
  },
  {  "item_name":"freezer bags",
     "item_id":"38",
     "publix_cobblestone_aisle":"Aisle 12",
     "publix_plaza_aisle":"Aisle 9",
     "winndixie_aisle":"Aisle 18",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A27",
+    "walmart_atlantic_aisle":"A22" 
  },
  {  "item_name":"clamps",
     "item_id":"39",
     "publix_cobblestone_aisle":"item not found",
     "publix_plaza_aisle":"item not found",
     "winndixie_aisle":"item not found",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G29",
+    "walmart_atlantic_aisle":"A5" 
  },
  {  "item_name":"batteries",
     "item_id":"40",
     "publix_cobblestone_aisle":"Aisle 11",
     "publix_plaza_aisle":"Aisle 7",
     "winndixie_aisle":"Aisle 13",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"Z11",
+    "walmart_atlantic_aisle":"Z6" 
  },
  {  "item_name":"toothpaste",
     "item_id":"41",
     "publix_cobblestone_aisle":"Health And Beauty",
     "publix_plaza_aisle":"Pharmacy",
     "winndixie_aisle":"Aisle 14",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G15",
+    "walmart_atlantic_aisle":"H23" 
  },
     {  "item_name":"cocoa powder",
     "item_id":"42",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Aisle 9",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A14",
+    "walmart_atlantic_aisle":"A14" 
 },
 {  "item_name":"broom",
     "item_id":"43",
     "publix_cobblestone_aisle":"Aisle 13",
     "publix_plaza_aisle":"Aisle 8",
     "winndixie_aisle":"Aisle 13",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"J10",
+    "walmart_atlantic_aisle":"J26" 
  },
  {  "item_name":"mushrooms",
     "item_id":"44",
     "publix_cobblestone_aisle":"Produce",
     "publix_plaza_aisle":"Fresh Produce",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"beef tenderloin",
     "item_id":"45",
     "publix_cobblestone_aisle":"Fresh Meat",
     "publix_plaza_aisle":"Fresh Meat",
     "winndixie_aisle":"Meat",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A34",
+    "walmart_atlantic_aisle":"A38" 
  },
  {  "item_name":"prosciutto",
     "item_id":"46",
     "publix_cobblestone_aisle":"Deli",
     "publix_plaza_aisle":"Deli",
     "winndixie_aisle":"Shell 01",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A37",
+    "walmart_atlantic_aisle":"A40" 
  },
  {  "item_name":"puff pastry",
     "item_id":"47",
     "publix_cobblestone_aisle":"Aisle 8",
     "publix_plaza_aisle":"Aisle 13",
     "winndixie_aisle":"Aisle 11",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A2",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"thyme leaves",
     "item_id":"48",
     "publix_cobblestone_aisle":"Aisle 4",
     "publix_plaza_aisle":"Aisle 4",
     "winndixie_aisle":"Produce",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A1",
+    "walmart_atlantic_aisle":"A1" 
  },
  {  "item_name":"ibuprofen",
     "item_id":"49",
     "publix_cobblestone_aisle":"Health And Beauty",
     "publix_plaza_aisle":"Pharmacy",
     "winndixie_aisle":"Aisle 14",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"G8",
+    "walmart_atlantic_aisle":"G10" 
  },
  {  "item_name":"chicken nuggets",
     "item_id":"50",
     "publix_cobblestone_aisle":"Aisle 8",
     "publix_plaza_aisle":"Aisle 12",
     "winndixie_aisle":"Meat",
-    "walmart_hutchinson_aisle":"",
-    "walmart_atlantic_aisle":"" 
+    "walmart_hutchinson_aisle":"A34",
+    "walmart_atlantic_aisle":"A38" 
  },
  {
 
